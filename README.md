@@ -1,4 +1,4 @@
-### hey, I'm Rayyan — I build tools that help people build.
+### Hey, I'm Rayyan, and I build tools that help people build.
 
 - 🧠 **[mental-health-database](https://github.com/ray-aqno/mental-health-database)** —
   an interactive map of mental health resources across Midwest colleges, with real-time
@@ -17,11 +17,9 @@
   RAG-based rule retrieval, an agentic training simulator, and a human-in-the-loop
   review dashboard.
 
-Outside of code: I run a venture studio that helped 11 first-time high school founders
+Outside of code: I ran a venture studio that helped 11 first-time high school founders
 launch real companies (local podcast feature, WLWT-5). Through the Music Production
 Club I founded, I also built a $30k music production lab serving 50+ students —
 Virtuoso is the software version of that same idea.
 
-Currently: Tech & Innovation Intern doing agentic engineering.
-
-[LinkedIn](https://www.linkedin.com/in/rayyan-aquino-2338962ba/)
+Currently: Tech & Innovation Intern doing agentic engineering @ NaviStone
