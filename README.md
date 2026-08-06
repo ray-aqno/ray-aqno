@@ -1,3 +1,9 @@
+<div align="center">
+<img src="./ascii.svg" width="470" alt="ASCII self-portrait of Rayyan"/>
+</div>
+
+<br/>
+
 ### Hey, I'm Rayyan, and I build tools that help people build.
 
 - 🧠 **[mental-health-database](https://github.com/ray-aqno/mental-health-database)** —

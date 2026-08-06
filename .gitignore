@@ -1,0 +1,14 @@
+# local build env
+.venv/
+__pycache__/
+*.pyc
+
+# source photo + intermediate crops (not for the public profile)
+IMG_*.jpeg
+IMG_*.jpg
+crop.jpg
+crop2.jpg
+
+# scratch / discarded render variants
+_preview.html
+ascii2.svg
