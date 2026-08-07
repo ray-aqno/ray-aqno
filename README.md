@@ -7,9 +7,14 @@ to the parts most people skip, and I'd rather build something people trust than 
 that only demos well. Right now I'm a Tech & Innovation Intern at NaviStone, where I'm
 building a marketing ops brain.
 
+Outside of code, I launched a Venture Studio that helped 11 students launch their products, 
+and built a $30,000 music production lab to empower 50+ students to create and develop in 
+computer music. My initial introduction to AI agents was trying to build an agentic system 
+for music production students. A Duolingo for music producers, if you will. 
+
 <br clear="left"/>
 
-That foundation comes from the projects I build on my own:
+Here are my most recent projects in AI, ML, and multi-agent systems: 
 
 - 🏛️ **[Toto-Wolff](https://github.com/ray-aqno/Toto-Wolff)**: persistent governance for
   Claude Code. A council of scouts, analysts, and a chairman reviews each architectural
