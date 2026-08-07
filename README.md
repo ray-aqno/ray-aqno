@@ -6,12 +6,12 @@
 
 ### Hey, I'm Rayyan, and I build tools that help people build.
 
-My foundation is agentic systems. Several models work together under clear rules, use
-retrieval to stay grounded, and hand each output to a person before it ships. I focus on
-the parts that are easy to skip: governance, orchestration, and good results from small
-local models. Right now I am a Tech & Innovation Intern at NaviStone, where I build a
-marketing ops brain. It grounds its answers in retrieval, and a person reviews everything
-it sends out.
+My foundation is agentic systems: AI that gets real work done, not just answers. I'm drawn
+to the parts most people skip, and I'd rather build something people trust than something
+that only demos well. Right now I'm a Tech & Innovation Intern at NaviStone, where I'm
+building a marketing ops brain.
+
+That foundation comes from the projects I build on my own:
 
 - 🏛️ **[Toto-Wolff](https://github.com/ray-aqno/Toto-Wolff)**: persistent governance for
   Claude Code. A council of scouts, analysts, and a chairman reviews each architectural
