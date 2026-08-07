@@ -1,8 +1,4 @@
-<div align="center">
-<img src="./ascii.svg" width="470" alt="ASCII portrait of Rayyan"/>
-</div>
-
-<br/>
+<img align="left" width="340" src="./ascii.svg" alt="ASCII portrait of Rayyan"/>
 
 ### Hey, I'm Rayyan, and I build tools that help people build.
 
@@ -10,6 +6,8 @@ My foundation is agentic systems: AI that gets real work done, not just answers.
 to the parts most people skip, and I'd rather build something people trust than something
 that only demos well. Right now I'm a Tech & Innovation Intern at NaviStone, where I'm
 building a marketing ops brain.
+
+<br clear="left"/>
 
 That foundation comes from the projects I build on my own:
 
