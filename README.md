@@ -34,7 +34,4 @@ Here are my most recent projects in AI, ML, and multi-agent systems:
   it to my graduating class of about 900 seniors.
   **[Live app →](https://mental-health-database.onrender.com)**
 
-Outside of code: I ran a venture studio that helped 11 high school founders launch real
-companies, and the work reached WLWT-5. I also founded a Music Production Club and built a
-$30k music lab that serves more than 50 students. Virtuoso is the software version of that
-lab.
+Interested in working together? --> rayyan.aquino@marquette.edu
