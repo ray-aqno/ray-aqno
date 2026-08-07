@@ -1,4 +1,4 @@
-<img align="left" width="340" src="./ascii.svg" alt="ASCII portrait of Rayyan"/>
+<img align="left" width="260" src="./ascii.svg" alt="ASCII portrait of Rayyan"/>
 
 ### Hey, I'm Rayyan, and I build tools that help people build.
 
