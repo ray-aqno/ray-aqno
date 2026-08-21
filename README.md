@@ -4,8 +4,8 @@
 
 My foundation is agentic systems: AI that gets real work done, not just answers. I'm drawn
 to the parts most people skip, and I'd rather build something people trust than something
-that only demos well. Right now I'm a Tech & Innovation Intern at NaviStone, where I'm
-building a marketing ops brain.
+that only demos well. That's what I did at NaviStone, a Series B startup, as an AI Engineering & 
+innovation intern. 
 
 Outside of code, I built a Venture Studio that helped 11 high schoolers launch their own startups, 
 and created a $30,000 music production lab to empower 50+ students to create and develop in 
