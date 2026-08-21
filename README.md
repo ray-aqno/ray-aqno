@@ -20,10 +20,7 @@ Here are my most recent projects in AI, ML, and multi-agent systems:
   Claude Code. A council of scouts, analysts, and a chairman reviews each architectural
   decision and writes it to a durable record, so later sessions inherit the ruling instead
   of arguing it again.
-- 🔧 **[qwengineering](https://github.com/ray-aqno/qwengineering)**: an agent system that
-  runs entirely on one 16GB M1. A single Qwen2.5-7B-Instruct model fills every role. A
-  LangGraph state machine routes each step, and a fresh system prompt turns the model into
-  the planner or any worker. No cloud inference.
+- 🏀 **[BallR](https://github.com/ray-aqno/BallR)**: Full AI/ML platform for college basketball, transforming raw play-by-play data into playmaking intelligence for coaching staff through GPU-accelerated feature engineering, Bayesian team ratings, and MILP optimization for lineups. 
 - 📈 **[crescent-quant-agent](https://github.com/ray-aqno/crescent-quant-agent)**: an ethical
   trading system where a compliance check blocks every trade until it passes. Agents talk
   over a Kafka event bus, pull their rules with RAG, and train against a simulator. A person
