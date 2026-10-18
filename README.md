@@ -14,6 +14,24 @@ for our students. A Duolingo for music producers, if you will.
 
 <br clear="left"/>
 
+### Research
+
+**ML Researcher · Computational Combustion Lab, Marquette University** (Sep 2026 – present, in progress)
+
+I'm segmenting primary particles in soot TEM (transmission electron microscope) images to support
+combustion emissions research, advised by Dr. Somesh Roy. The baseline is the lab's existing
+Mask R-CNN segmentation pipeline.
+
+- Migrating the training pipeline from TensorFlow to PyTorch so it runs on an NVIDIA RTX 5070
+  (CUDA 13)
+- Upgrading the synthetic image generation pipeline that produces the model's training data,
+  adding more realistic variation in particle and aggregate shapes
+- Red-teamed the lab's image analysis pipeline with OpenCV; the findings confirmed the PyTorch
+  migration was needed
+- Next: comparing Vision Transformer (ViT) and Mask R-CNN models for this segmentation task
+
+Stack: Python, PyTorch, TensorFlow, OpenCV, CUDA
+
 Here are my most recent projects in AI, ML, and multi-agent systems: 
 
 - 🏛️ **[Toto-Wolff](https://github.com/ray-aqno/Toto-Wolff)**: persistent governance for
